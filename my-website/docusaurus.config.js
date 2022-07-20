@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'About me',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About me',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -81,21 +81,29 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Profiles',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Google Scholar',
+                href: 'https://scholar.google.com/citations?user=anH1p78AAAAJ&hl=es',
+              },
+              {
+                label: 'ORCID',
+                href: 'https://orcid.org/0000-0002-0664-139X',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Contact',
             items: [
+              {
+                label: 'Email',
+                href: 'mailto:juanjqo@g.ecc.u-tokyo.ac.jp'
+              },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/juanjqo',
-              },
+              }
             ],
           },
           {
@@ -112,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Juan Jose Quiroz Omana. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
