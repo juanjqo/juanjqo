@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Juan J. Quiroz O.',
-    Svg: require('@site/static/img/photo.svg').default,
+    Svg: require('@site/static/img/photo_2.svg').default,
     description: (
       <>
         I'm a robotics researcher at The University of Tokyo.
