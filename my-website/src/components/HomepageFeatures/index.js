@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Research Interests',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
