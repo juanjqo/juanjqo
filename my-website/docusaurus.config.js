@@ -70,8 +70,8 @@ const config = {
             label: 'About me',
           },
           {
-            to: '/publications',
-            docId: 'doc_publications',
+            type: 'doc',
+            docId: 'publications_id',
             position: 'left',
             label: 'Publications',
           },
