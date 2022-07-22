@@ -69,7 +69,17 @@ const config = {
             position: 'left',
             label: 'About me',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/publications',
+            docId: 'doc_publications',
+            position: 'left',
+            label: 'Publications',
+          },
+          {
+           to: '/blog',
+           label: 'Blog',
+           position: 'left'
+          },
           {
             href: 'https://github.com/juanjqo',
             label: 'GitHub',
