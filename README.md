@@ -1,4 +1,4 @@
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DcitationCount&query=citationCount&label=Semantic%20Scholar%20Citations)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DcitationCount&query=citationCount&label=Citations)
 
 
 ### Hi there 👋
