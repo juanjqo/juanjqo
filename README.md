@@ -1,5 +1,5 @@
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DpaperCount&query=paperCount&label=Papers)](https://www.semanticscholar.org/author/J.-J.-Quiroz-Oma%C3%B1a/1403584164)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DcitationCount&query=citationCount&label=Citations)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DcitationCount&query=citationCount&label=Citations)](https://www.semanticscholar.org/author/J.-J.-Quiroz-Oma%C3%B1a/1403584164)
 
 
 ### Hi there 👋
