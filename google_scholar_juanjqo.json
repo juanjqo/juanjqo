@@ -1,0 +1,264 @@
+{
+  "search_metadata": {
+    "id": "660ed6c15fc493311bb687f5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/660ed6c15fc493311bb687f5.json",
+    "created_at": "2024-04-04 16:35:13 UTC",
+    "processed_at": "2024-04-04 16:35:13 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/660ed6c15fc493311bb687f5.html",
+    "total_time_taken": 0.66
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "anH1p78AAAAJ&hl",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Juan José Quiroz Omaña",
+    "affiliations": "Researcher, The University of Tokyo",
+    "email": "Verified email at g.ecc.utokyo.ac.jp",
+    "interests": [
+      {
+        "title": "Robotics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:robotics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arobotics"
+      },
+      {
+        "title": "Control and automation",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:control_and_automation",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontrol_and_automation"
+      },
+      {
+        "title": "Human-Robot Cooperation",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:human_robot_cooperation",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_robot_cooperation"
+      },
+      {
+        "title": "Surgical Robotics",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:surgical_robotics",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asurgical_robotics"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=anH1p78AAAAJ&citpid=7"
+  },
+  "articles": [
+    {
+      "title": "Whole-Body Control with (Self) Collision Avoidance using Vector Field Inequalities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "anH1p78AAAAJ:zYLM7Y9cAGgC",
+      "authors": "JJ Quiroz-Omaña, BV Adorno",
+      "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
+      "cited_by": {
+        "value": 36,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
+        "cites_id": "7099481028616720948"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Whole-body kinematic control of nonholonomic mobile manipulators using linear programming",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:qjMakFHDy7sC",
+      "citation_id": "anH1p78AAAAJ:qjMakFHDy7sC",
+      "authors": "JJ Quiroz-Omaña, BV Adorno",
+      "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
+      "cited_by": {
+        "value": 16,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
+        "cites_id": "16207530139629504815"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Dynamics of mobile manipulators using dual quaternion algebra",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:YsMSGLbcyi4C",
+      "citation_id": "anH1p78AAAAJ:YsMSGLbcyi4C",
+      "authors": "FFA Silva, JJ Quiroz-Omaña, BV Adorno",
+      "publication": "arXiv preprint arXiv:2007.08444, 2020",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084949843608383675",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18084949843608383675&engine=google_scholar&hl=en",
+        "cites_id": "18084949843608383675"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Estimación de parámetros y modelo de caja negra de un motor CD sin escobillas",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:u-x6o8ySG0sC",
+      "citation_id": "anH1p78AAAAJ:u-x6o8ySG0sC",
+      "authors": "JA Becerra-Vargas, FE Moreno-García, JJ Quiroz-Omaña, ...",
+      "publication": "TecnoLógicas 17 (33), 55-64, 2014",
+      "cited_by": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7752879477781897541",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7752879477781897541&engine=google_scholar&hl=en",
+        "cites_id": "7752879477781897541"
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Design and validation of a multi-arm robotic platform for scientific exploration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:eQOLeE2rZwMC",
+      "citation_id": "anH1p78AAAAJ:eQOLeE2rZwMC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "arXiv preprint arXiv:2210.11877, 2022",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2427844100616986366",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2427844100616986366&engine=google_scholar&hl=en",
+        "cites_id": "2427844100616986366"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Parsimonious kinematic control of nonholonomic mobile manipulators",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:9yKSN-GCB0IC",
+      "citation_id": "anH1p78AAAAJ:9yKSN-GCB0IC",
+      "authors": "JJ Quiroz-Omaña, BV Adorno",
+      "publication": "2016 XIII Latin American Robotics Symposium and IV Brazilian Robotics …, 2016",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11710563538394246663",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11710563538394246663&engine=google_scholar&hl=en",
+        "cites_id": "11710563538394246663"
+      },
+      "year": "2016"
+    },
+    {
+      "title": "A Multiarm Robotic Platform for Scientific Exploration: Its Design, Digital Twins, and Validation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:_FxGoFyzp5QC",
+      "citation_id": "anH1p78AAAAJ:_FxGoFyzp5QC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "IEEE Robotics & Automation Magazine, 2024",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2024"
+    },
+    {
+      "title": "Whole-Body Control with (Self) Collision Avoidance using Vector Field Inequalities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:ufrVoPGSRksC",
+      "citation_id": "anH1p78AAAAJ:ufrVoPGSRksC",
+      "authors": "J José Quiroz-Omaña, B Vilhena Adorno",
+      "publication": "arXiv e-prints, arXiv: 1906.07322, 2019",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2019"
+    },
+    {
+      "title": "PID control with electronic differential for two brushless DC motors/Control PID con diferencial electrÃ³nico para dos motores CD sin escobillas/Controle PID com diferencial …",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:Tyk-4Ss8FVUC",
+      "citation_id": "anH1p78AAAAJ:Tyk-4Ss8FVUC",
+      "authors": "FEM Garcia, JAB Vargas, JJQ Omana",
+      "publication": "Revista Epsilon, 11-32, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    },
+    {
+      "title": "Control PID con diferencial electrónico para dos motores CD sin escobillas",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:UeHWp8X0CEIC",
+      "citation_id": "anH1p78AAAAJ:UeHWp8X0CEIC",
+      "authors": "FEM García, JAB Vargas, JJQ Omaña",
+      "publication": "Epsilon, 11-31, 2014",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2014"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 80,
+          "since_2019": 71
+        }
+      },
+      {
+        "h_index": {
+          "all": 4,
+          "since_2019": 4
+        }
+      },
+      {
+        "i10_index": {
+          "all": 4,
+          "since_2019": 3
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2014,
+        "citations": 1
+      },
+      {
+        "year": 2017,
+        "citations": 3
+      },
+      {
+        "year": 2018,
+        "citations": 4
+      },
+      {
+        "year": 2019,
+        "citations": 2
+      },
+      {
+        "year": 2020,
+        "citations": 10
+      },
+      {
+        "year": 2021,
+        "citations": 16
+      },
+      {
+        "year": 2022,
+        "citations": 13
+      },
+      {
+        "year": 2023,
+        "citations": 27
+      },
+      {
+        "year": 2024,
+        "citations": 3
+      }
+    ]
+  },
+  "co_authors": [
+    {
+      "name": "Bruno Vilhena Adorno",
+      "link": "https://scholar.google.com/citations?user=DsPYm9kAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=DsPYm9kAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "DsPYm9kAAAAJ",
+      "affiliations": "Senior Lecturer (Associate Professor) in Robotics, The University of Manchester",
+      "email": "Verified email at manchester.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DsPYm9kAAAAJ&citpid=11"
+    },
+    {
+      "name": "FRANCISCO ERNESTO MORENO GA...",
+      "link": "https://scholar.google.com/citations?user=Imf6CN4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Imf6CN4AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Imf6CN4AAAAJ",
+      "affiliations": "Universidad Francisco de Paula Santander",
+      "email": "Verified email at ufps.edu.co",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Imf6CN4AAAAJ&citpid=3"
+    },
+    {
+      "name": "Frederico Fernandes Afonso Silva",
+      "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jZ56YrgAAAAJ",
+      "affiliations": "Marie Curie Fellow, The University of Manchester",
+      "email": "Verified email at manchester.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=1"
+    }
+  ]
+}
