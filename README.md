@@ -1,5 +1,7 @@
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DpaperCount&query=paperCount&label=Papers)](https://www.semanticscholar.org/author/J.-J.-Quiroz-Oma%C3%B1a/1403584164)
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fauthor%2F1403584164%3Ffields%3DcitationCount&query=citationCount&label=Citations)](https://www.semanticscholar.org/author/J.-J.-Quiroz-Oma%C3%B1a/1403584164)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.author.name&label=Google%20Scholar&color=red&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DanH1p78AAAAJ%26hl%3Des)![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.cited_by.table..citations.all&label=Citations&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DanH1p78AAAAJ%26hl%3Des)![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.cited_by.table..h_index.all&label=h_index&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DanH1p78AAAAJ%26hl%3Des)![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.cited_by.table..i10_index.all&label=i10_index&color=blue&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DanH1p78AAAAJ%26hl%3Des)
+
+
+
 
 
 ### Hi there 👋
