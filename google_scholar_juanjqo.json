@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "660ed6c15fc493311bb687f5",
+    "id": "66106d3c382427264d83d421",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/660ed6c15fc493311bb687f5.json",
-    "created_at": "2024-04-04 16:35:13 UTC",
-    "processed_at": "2024-04-04 16:35:13 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/66106d3c382427264d83d421.json",
+    "created_at": "2024-04-05 21:29:32 UTC",
+    "processed_at": "2024-04-05 21:29:32 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/660ed6c15fc493311bb687f5.html",
-    "total_time_taken": 0.66
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/66106d3c382427264d83d421.html",
+    "total_time_taken": 2.02
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
       "cited_by": {
-        "value": 16,
+        "value": 18,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -176,8 +176,8 @@
     "table": [
       {
         "citations": {
-          "all": 80,
-          "since_2019": 71
+          "all": 82,
+          "since_2019": 73
         }
       },
       {
@@ -228,7 +228,7 @@
       },
       {
         "year": 2024,
-        "citations": 3
+        "citations": 5
       }
     ]
   },
