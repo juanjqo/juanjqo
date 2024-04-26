@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "661af0292236e28b95c23101",
+    "id": "662c08661071f472bb37173c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/661af0292236e28b95c23101.json",
-    "created_at": "2024-04-13 20:50:49 UTC",
-    "processed_at": "2024-04-13 20:50:49 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/662c08661071f472bb37173c.json",
+    "created_at": "2024-04-26 20:02:46 UTC",
+    "processed_at": "2024-04-26 20:02:46 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/661af0292236e28b95c23101.html",
-    "total_time_taken": 0.78
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/662c08661071f472bb37173c.html",
+    "total_time_taken": 1.08
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 37,
+        "value": 38,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -176,8 +176,8 @@
     "table": [
       {
         "citations": {
-          "all": 83,
-          "since_2019": 74
+          "all": 84,
+          "since_2019": 75
         }
       },
       {
@@ -228,7 +228,7 @@
       },
       {
         "year": 2024,
-        "citations": 6
+        "citations": 7
       }
     ]
   },
