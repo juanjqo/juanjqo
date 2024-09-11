@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "66b3bc34c7ad41cae89f6a2a",
+    "id": "66e1aa94bb55ff2021705cd5",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/66b3bc34c7ad41cae89f6a2a.json",
-    "created_at": "2024-08-07 18:25:56 UTC",
-    "processed_at": "2024-08-07 18:25:56 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/66e1aa94bb55ff2021705cd5.json",
+    "created_at": "2024-09-11 14:35:00 UTC",
+    "processed_at": "2024-09-11 14:35:00 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/66b3bc34c7ad41cae89f6a2a.html",
-    "total_time_taken": 1.29
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/66e1aa94bb55ff2021705cd5.html",
+    "total_time_taken": 2.82
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 39,
+        "value": 40,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
       "cited_by": {
-        "value": 18,
+        "value": 19,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -78,7 +78,7 @@
       "authors": "FFA Silva, JJ Quiroz-Omaña, BV Adorno",
       "publication": "arXiv preprint arXiv:2007.08444, 2020",
       "cited_by": {
-        "value": 13,
+        "value": 14,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084949843608383675",
         "serpapi_link": "https://serpapi.com/search.json?cites=18084949843608383675&engine=google_scholar&hl=en",
         "cites_id": "18084949843608383675"
@@ -143,8 +143,8 @@
     "table": [
       {
         "citations": {
-          "all": 78,
-          "since_2019": 73
+          "all": 81,
+          "since_2019": 76
         }
       },
       {
@@ -187,11 +187,11 @@
       },
       {
         "year": 2023,
-        "citations": 25
+        "citations": 24
       },
       {
         "year": 2024,
-        "citations": 12
+        "citations": 16
       }
     ]
   },
