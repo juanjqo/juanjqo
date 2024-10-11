@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "66e1aa94bb55ff2021705cd5",
+    "id": "6709062613e5d8f7f37ba77b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/66e1aa94bb55ff2021705cd5.json",
-    "created_at": "2024-09-11 14:35:00 UTC",
-    "processed_at": "2024-09-11 14:35:00 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/6709062613e5d8f7f37ba77b.json",
+    "created_at": "2024-10-11 11:04:06 UTC",
+    "processed_at": "2024-10-11 11:04:06 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/66e1aa94bb55ff2021705cd5.html",
-    "total_time_taken": 2.82
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/6709062613e5d8f7f37ba77b.html",
+    "total_time_taken": 0.24
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 40,
+        "value": 41,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
       "cited_by": {
-        "value": 19,
+        "value": 20,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -120,7 +120,7 @@
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
       "publication": "IEEE Robotics & Automation Magazine, 2024",
       "cited_by": {
-        "value": 1,
+        "value": 2,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
         "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
         "cites_id": "4291637748470978741"
@@ -143,8 +143,8 @@
     "table": [
       {
         "citations": {
-          "all": 81,
-          "since_2019": 76
+          "all": 84,
+          "since_2019": 79
         }
       },
       {
@@ -187,11 +187,11 @@
       },
       {
         "year": 2023,
-        "citations": 24
+        "citations": 25
       },
       {
         "year": 2024,
-        "citations": 16
+        "citations": 17
       }
     ]
   },
@@ -206,15 +206,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DsPYm9kAAAAJ&citpid=11"
     },
     {
-      "name": "Frederico Fernandes Afonso Silva",
-      "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "jZ56YrgAAAAJ",
-      "affiliations": "Marie Curie Fellow, The University of Manchester",
-      "email": "Verified email at manchester.ac.uk",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=1"
-    },
-    {
       "name": "Murilo Marques Marinho",
       "link": "https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=4yzonSsAAAAJ&engine=google_scholar_author&hl=en",
@@ -222,6 +213,15 @@
       "affiliations": "Lecturer in Robotics, The University of Manchester",
       "email": "Verified email at manchester.ac.uk",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4yzonSsAAAAJ&citpid=6"
+    },
+    {
+      "name": "Frederico Fernandes Afonso Silva",
+      "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jZ56YrgAAAAJ",
+      "affiliations": "Marie Curie Fellow, The University of Manchester",
+      "email": "Verified email at manchester.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=1"
     }
   ]
 }
