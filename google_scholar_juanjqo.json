@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6709062613e5d8f7f37ba77b",
+    "id": "670ce1b72379380aac94f956",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/6709062613e5d8f7f37ba77b.json",
-    "created_at": "2024-10-11 11:04:06 UTC",
-    "processed_at": "2024-10-11 11:04:06 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/670ce1b72379380aac94f956.json",
+    "created_at": "2024-10-14 09:17:43 UTC",
+    "processed_at": "2024-10-14 09:17:43 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/6709062613e5d8f7f37ba77b.html",
-    "total_time_taken": 0.24
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/670ce1b72379380aac94f956.html",
+    "total_time_taken": 0.43
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -78,7 +78,7 @@
       "authors": "FFA Silva, JJ Quiroz-Omaña, BV Adorno",
       "publication": "arXiv preprint arXiv:2007.08444, 2020",
       "cited_by": {
-        "value": 14,
+        "value": 15,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084949843608383675",
         "serpapi_link": "https://serpapi.com/search.json?cites=18084949843608383675&engine=google_scholar&hl=en",
         "cites_id": "18084949843608383675"
@@ -143,8 +143,8 @@
     "table": [
       {
         "citations": {
-          "all": 84,
-          "since_2019": 79
+          "all": 85,
+          "since_2019": 80
         }
       },
       {
@@ -191,7 +191,7 @@
       },
       {
         "year": 2024,
-        "citations": 17
+        "citations": 18
       }
     ]
   },
@@ -206,15 +206,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DsPYm9kAAAAJ&citpid=11"
     },
     {
-      "name": "Murilo Marques Marinho",
-      "link": "https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=4yzonSsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "4yzonSsAAAAJ",
-      "affiliations": "Lecturer in Robotics, The University of Manchester",
-      "email": "Verified email at manchester.ac.uk",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4yzonSsAAAAJ&citpid=6"
-    },
-    {
       "name": "Frederico Fernandes Afonso Silva",
       "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
@@ -222,6 +213,15 @@
       "affiliations": "Marie Curie Fellow, The University of Manchester",
       "email": "Verified email at manchester.ac.uk",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=1"
+    },
+    {
+      "name": "Murilo Marques Marinho",
+      "link": "https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=4yzonSsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "4yzonSsAAAAJ",
+      "affiliations": "Lecturer in Robotics, The University of Manchester",
+      "email": "Verified email at manchester.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4yzonSsAAAAJ&citpid=6"
     }
   ]
 }
