@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "670ce1b72379380aac94f956",
+    "id": "67b31467cfdc0b6a39b288e7",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/670ce1b72379380aac94f956.json",
-    "created_at": "2024-10-14 09:17:43 UTC",
-    "processed_at": "2024-10-14 09:17:43 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/67b31467cfdc0b6a39b288e7.json",
+    "created_at": "2025-02-17 10:50:15 UTC",
+    "processed_at": "2025-02-17 10:50:15 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/670ce1b72379380aac94f956.html",
-    "total_time_taken": 0.43
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/67b31467cfdc0b6a39b288e7.html",
+    "total_time_taken": 0.79
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 41,
+        "value": 45,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
       "cited_by": {
-        "value": 20,
+        "value": 22,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -92,12 +92,26 @@
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
       "publication": "arXiv preprint arXiv:2210.11877, 2022",
       "cited_by": {
-        "value": 4,
+        "value": 5,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2427844100616986366",
         "serpapi_link": "https://serpapi.com/search.json?cites=2427844100616986366&engine=google_scholar&hl=en",
         "cites_id": "2427844100616986366"
       },
       "year": "2022"
+    },
+    {
+      "title": "A Multiarm Robotic Platform for Scientific Exploration: Its Design, Digital Twins, and Validation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:_FxGoFyzp5QC",
+      "citation_id": "anH1p78AAAAJ:_FxGoFyzp5QC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "IEEE Robotics & Automation Magazine, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
+        "cites_id": "4291637748470978741"
+      },
+      "year": "2024"
     },
     {
       "title": "Parsimonious kinematic control of nonholonomic mobile manipulators",
@@ -114,18 +128,26 @@
       "year": "2016"
     },
     {
-      "title": "A Multiarm Robotic Platform for Scientific Exploration: Its Design, Digital Twins, and Validation",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:_FxGoFyzp5QC",
-      "citation_id": "anH1p78AAAAJ:_FxGoFyzp5QC",
-      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
-      "publication": "IEEE Robotics & Automation Magazine, 2024",
+      "title": "Digital Twin of a Multi-Arm Robot Platform based on Isaac Sim for Synthetic Data Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:roLk4NBRz8UC",
+      "citation_id": "anH1p78AAAAJ:roLk4NBRz8UC",
+      "authors": "JJ Quiroz Omaña, M Marques Marinho, K Harada",
+      "publication": "(No Title), 2023",
       "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
-        "cites_id": "4291637748470978741"
+        "value": null
       },
-      "year": "2024"
+      "year": "2023"
+    },
+    {
+      "title": "A Multi-Arm Robotic Platform for Scientific Exploration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:LkGwnXOMwfcC",
+      "citation_id": "anH1p78AAAAJ:LkGwnXOMwfcC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "(No Title), 2022",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
     },
     {
       "title": "Whole-Body Control with (Self) Collision Avoidance using Vector Field Inequalities",
@@ -143,20 +165,20 @@
     "table": [
       {
         "citations": {
-          "all": 85,
-          "since_2019": 80
+          "all": 93,
+          "since_2020": 86
         }
       },
       {
         "h_index": {
           "all": 4,
-          "since_2019": 4
+          "since_2020": 4
         }
       },
       {
         "i10_index": {
           "all": 3,
-          "since_2019": 3
+          "since_2020": 3
         }
       }
     ],
@@ -187,13 +209,22 @@
       },
       {
         "year": 2023,
-        "citations": 25
+        "citations": 24
       },
       {
         "year": 2024,
-        "citations": 18
+        "citations": 27
+      },
+      {
+        "year": 2025,
+        "citations": 1
       }
     ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=anH1p78AAAAJ",
+    "available": 1,
+    "not_available": 0
   },
   "co_authors": [
     {
@@ -206,15 +237,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DsPYm9kAAAAJ&citpid=11"
     },
     {
-      "name": "Frederico Fernandes Afonso Silva",
-      "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "jZ56YrgAAAAJ",
-      "affiliations": "Marie Curie Fellow, The University of Manchester",
-      "email": "Verified email at manchester.ac.uk",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=1"
-    },
-    {
       "name": "Murilo Marques Marinho",
       "link": "https://scholar.google.com/citations?user=4yzonSsAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=4yzonSsAAAAJ&engine=google_scholar_author&hl=en",
@@ -222,6 +244,15 @@
       "affiliations": "Lecturer in Robotics, The University of Manchester",
       "email": "Verified email at manchester.ac.uk",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4yzonSsAAAAJ&citpid=6"
+    },
+    {
+      "name": "Frederico Fernandes Afonso Silva",
+      "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jZ56YrgAAAAJ",
+      "affiliations": "Marie Curie Fellow, The University of Manchester",
+      "email": "Verified email at manchester.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=1"
     }
   ]
 }
