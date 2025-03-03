@@ -1,7 +1,8 @@
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.author.name&label=Google%20Scholar&color=red)](https://scholar.google.com/citations?hl=es&user=anH1p78AAAAJ)[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.cited_by.table..citations.all&label=Citations&l)](https://scholar.google.com/citations?user=anH1p78AAAAJ&hl=es#d=gsc_md_hist&t=1712270442409)[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.cited_by.table..h_index.all&label=h_index&)](https://scholar.google.com/citations?user=anH1p78AAAAJ&hl=es#d=gsc_md_hist&t=1712270442409)[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjuanjqo%2Fjuanjqo%2Fmain%2Fgoogle_scholar_juanjqo.json&query=%24.cited_by.table..i10_index.all&label=i10_index&color=blue)](https://scholar.google.com/citations?user=anH1p78AAAAJ&hl=es#d=gsc_md_hist&t=1712270442409)
 
 
-### Hi there 👋
+### Hello there 👋
+<img src="https://github.com/user-attachments/assets/724b0e81-eaaa-400d-97e5-c521e1ecf0aa" alt="drawing" width="100"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=juanjqo)](https://github.com/juanjqo/github-profile-trophy)
 
