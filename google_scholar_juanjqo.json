@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "67b31467cfdc0b6a39b288e7",
+    "id": "681b260f55cfe1744dbee86d",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/67b31467cfdc0b6a39b288e7.json",
-    "created_at": "2025-02-17 10:50:15 UTC",
-    "processed_at": "2025-02-17 10:50:15 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/681b260f55cfe1744dbee86d.json",
+    "created_at": "2025-05-07 09:21:19 UTC",
+    "processed_at": "2025-05-07 09:21:19 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/67b31467cfdc0b6a39b288e7.html",
-    "total_time_taken": 0.79
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/681b260f55cfe1744dbee86d.html",
+    "total_time_taken": 1.03
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
       "cited_by": {
-        "value": 22,
+        "value": 21,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -78,7 +78,7 @@
       "authors": "FFA Silva, JJ Quiroz-Omaña, BV Adorno",
       "publication": "arXiv preprint arXiv:2007.08444, 2020",
       "cited_by": {
-        "value": 15,
+        "value": 17,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084949843608383675",
         "serpapi_link": "https://serpapi.com/search.json?cites=18084949843608383675&engine=google_scholar&hl=en",
         "cites_id": "18084949843608383675"
@@ -86,11 +86,25 @@
       "year": "2020"
     },
     {
+      "title": "A multiarm robotic platform for scientific exploration: Its design, digital twins, and validation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:_FxGoFyzp5QC",
+      "citation_id": "anH1p78AAAAJ:_FxGoFyzp5QC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "IEEE Robotics & Automation Magazine 31 (4), 10-20, 2024",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
+        "cites_id": "4291637748470978741"
+      },
+      "year": "2024"
+    },
+    {
       "title": "Design and validation of a multi-arm robotic platform for scientific exploration",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:eQOLeE2rZwMC",
       "citation_id": "anH1p78AAAAJ:eQOLeE2rZwMC",
-      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
-      "publication": "arXiv preprint arXiv:2210.11877, 2022",
+      "authors": "MM Marinho, JJ Quiroz-Omana, K Harada",
+      "publication": "arXiv e-prints, pp. arXiv–2210, 2022",
       "cited_by": {
         "value": 5,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2427844100616986366",
@@ -98,20 +112,6 @@
         "cites_id": "2427844100616986366"
       },
       "year": "2022"
-    },
-    {
-      "title": "A Multiarm Robotic Platform for Scientific Exploration: Its Design, Digital Twins, and Validation",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:_FxGoFyzp5QC",
-      "citation_id": "anH1p78AAAAJ:_FxGoFyzp5QC",
-      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
-      "publication": "IEEE Robotics & Automation Magazine, 2024",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
-        "cites_id": "4291637748470978741"
-      },
-      "year": "2024"
     },
     {
       "title": "Parsimonious kinematic control of nonholonomic mobile manipulators",
@@ -143,7 +143,7 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:LkGwnXOMwfcC",
       "citation_id": "anH1p78AAAAJ:LkGwnXOMwfcC",
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
-      "publication": "(No Title), 2022",
+      "publication": "arXiv preprint arXiv:2210.11877, 2022",
       "cited_by": {
         "value": null
       },
@@ -165,14 +165,14 @@
     "table": [
       {
         "citations": {
-          "all": 93,
-          "since_2020": 86
+          "all": 99,
+          "since_2020": 92
         }
       },
       {
         "h_index": {
-          "all": 4,
-          "since_2020": 4
+          "all": 5,
+          "since_2020": 5
         }
       },
       {
@@ -213,11 +213,11 @@
       },
       {
         "year": 2024,
-        "citations": 27
+        "citations": 25
       },
       {
         "year": 2025,
-        "citations": 1
+        "citations": 9
       }
     ]
   },
