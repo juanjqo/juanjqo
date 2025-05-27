@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "681b260f55cfe1744dbee86d",
+    "id": "6835811600a19750248c88e8",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/681b260f55cfe1744dbee86d.json",
-    "created_at": "2025-05-07 09:21:19 UTC",
-    "processed_at": "2025-05-07 09:21:19 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/6835811600a19750248c88e8.json",
+    "created_at": "2025-05-27 09:08:38 UTC",
+    "processed_at": "2025-05-27 09:08:38 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/681b260f55cfe1744dbee86d.html",
-    "total_time_taken": 1.03
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/6835811600a19750248c88e8.html",
+    "total_time_taken": 0.44
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 45,
+        "value": 46,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -150,6 +150,16 @@
       "year": "2022"
     },
     {
+      "title": "Dynamics of Mobile Manipulators using Dual Quaternion Algebra",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:Se3iqnhoufwC",
+      "citation_id": "anH1p78AAAAJ:Se3iqnhoufwC",
+      "authors": "F Fernandes Afonso Silva, JJ Quiroz-Omaña, B Adorno",
+      "cited_by": {
+        "value": null
+      },
+      "year": "2022"
+    },
+    {
       "title": "Whole-Body Control with (Self) Collision Avoidance using Vector Field Inequalities",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:ufrVoPGSRksC",
       "citation_id": "anH1p78AAAAJ:ufrVoPGSRksC",
@@ -165,8 +175,8 @@
     "table": [
       {
         "citations": {
-          "all": 99,
-          "since_2020": 92
+          "all": 100,
+          "since_2020": 93
         }
       },
       {
@@ -205,7 +215,7 @@
       },
       {
         "year": 2022,
-        "citations": 12
+        "citations": 13
       },
       {
         "year": 2023,
