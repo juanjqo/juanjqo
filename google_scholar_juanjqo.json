@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6835811600a19750248c88e8",
+    "id": "6842b22bc754433d265ec7e2",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/6835811600a19750248c88e8.json",
-    "created_at": "2025-05-27 09:08:38 UTC",
-    "processed_at": "2025-05-27 09:08:38 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/6842b22bc754433d265ec7e2.json",
+    "created_at": "2025-06-06 09:17:31 UTC",
+    "processed_at": "2025-06-06 09:17:31 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/6835811600a19750248c88e8.html",
-    "total_time_taken": 0.44
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/6842b22bc754433d265ec7e2.html",
+    "total_time_taken": 2.66
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91, 263-278, 2018",
       "cited_by": {
-        "value": 21,
+        "value": 22,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -92,7 +92,7 @@
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
       "publication": "IEEE Robotics & Automation Magazine 31 (4), 10-20, 2024",
       "cited_by": {
-        "value": 8,
+        "value": 9,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
         "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
         "cites_id": "4291637748470978741"
@@ -175,8 +175,8 @@
     "table": [
       {
         "citations": {
-          "all": 100,
-          "since_2020": 93
+          "all": 102,
+          "since_2020": 95
         }
       },
       {
@@ -223,11 +223,11 @@
       },
       {
         "year": 2024,
-        "citations": 25
+        "citations": 26
       },
       {
         "year": 2025,
-        "citations": 9
+        "citations": 10
       }
     ]
   },
@@ -253,7 +253,7 @@
       "author_id": "4yzonSsAAAAJ",
       "affiliations": "Lecturer in Robotics, The University of Manchester",
       "email": "Verified email at manchester.ac.uk",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4yzonSsAAAAJ&citpid=6"
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4yzonSsAAAAJ&citpid=9"
     },
     {
       "name": "Frederico Fernandes Afonso Silva",
