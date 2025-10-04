@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "68a82c8ca3ce84a3a56709fc",
+    "id": "68e1601ed6eb72d1879169c5",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/68a82c8ca3ce84a3a56709fc.json",
-    "created_at": "2025-08-22 08:38:36 UTC",
-    "processed_at": "2025-08-22 08:38:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/68e1601ed6eb72d1879169c5.json",
+    "created_at": "2025-10-04 17:57:50 UTC",
+    "processed_at": "2025-10-04 17:57:50 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/68a82c8ca3ce84a3a56709fc.html",
-    "total_time_taken": 0.98
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/68e1601ed6eb72d1879169c5.html",
+    "total_time_taken": 3.02
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 47,
+        "value": 50,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -92,7 +92,7 @@
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
       "publication": "IEEE Robotics & Automation Magazine 31 (4), 10-20, 2024",
       "cited_by": {
-        "value": 12,
+        "value": 14,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
         "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
         "cites_id": "4291637748470978741"
@@ -106,7 +106,7 @@
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
       "publication": "arXiv e-prints, pp. arXiv–2210, 2022",
       "cited_by": {
-        "value": 5,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2427844100616986366",
         "serpapi_link": "https://serpapi.com/search.json?cites=2427844100616986366&engine=google_scholar&hl=en",
         "cites_id": "2427844100616986366"
@@ -175,8 +175,8 @@
     "table": [
       {
         "citations": {
-          "all": 106,
-          "since_2020": 99
+          "all": 114,
+          "since_2020": 107
         }
       },
       {
@@ -219,7 +219,7 @@
       },
       {
         "year": 2023,
-        "citations": 24
+        "citations": 26
       },
       {
         "year": 2024,
@@ -227,7 +227,7 @@
       },
       {
         "year": 2025,
-        "citations": 15
+        "citations": 21
       }
     ]
   },
