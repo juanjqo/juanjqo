@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "68e1601ed6eb72d1879169c5",
+    "id": "697cd77b03b1360f427ddbf4",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/68e1601ed6eb72d1879169c5.json",
-    "created_at": "2025-10-04 17:57:50 UTC",
-    "processed_at": "2025-10-04 17:57:50 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/697cd77b03b1360f427ddbf4.json",
+    "created_at": "2026-01-30 16:08:27 UTC",
+    "processed_at": "2026-01-30 16:08:27 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/68e1601ed6eb72d1879169c5.html",
-    "total_time_taken": 3.02
+    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/697cd77b03b1360f427ddbf4.html",
+    "total_time_taken": 0.87
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 50,
+        "value": 53,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91 (2), 263-278, 2018",
       "cited_by": {
-        "value": 21,
+        "value": 23,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -78,7 +78,7 @@
       "authors": "FFA Silva, JJ Quiroz-Omaña, BV Adorno",
       "publication": "arXiv preprint arXiv:2007.08444, 2020",
       "cited_by": {
-        "value": 18,
+        "value": 20,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084949843608383675",
         "serpapi_link": "https://serpapi.com/search.json?cites=18084949843608383675&engine=google_scholar&hl=en",
         "cites_id": "18084949843608383675"
@@ -92,7 +92,7 @@
       "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
       "publication": "IEEE Robotics & Automation Magazine 31 (4), 10-20, 2024",
       "cited_by": {
-        "value": 14,
+        "value": 18,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291637748470978741",
         "serpapi_link": "https://serpapi.com/search.json?cites=4291637748470978741&engine=google_scholar&hl=en",
         "cites_id": "4291637748470978741"
@@ -128,6 +128,20 @@
       "year": "2016"
     },
     {
+      "title": "A Multi-Arm Robotic Platform for Scientific Exploration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:LkGwnXOMwfcC",
+      "citation_id": "anH1p78AAAAJ:LkGwnXOMwfcC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "arXiv preprint arXiv:2210.11877, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16623675828630091963",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16623675828630091963&engine=google_scholar&hl=en",
+        "cites_id": "16623675828630091963"
+      },
+      "year": "2022"
+    },
+    {
       "title": "Digital Twin of a Multi-Arm Robot Platform based on Isaac Sim for Synthetic Data Generation",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:roLk4NBRz8UC",
       "citation_id": "anH1p78AAAAJ:roLk4NBRz8UC",
@@ -137,17 +151,6 @@
         "value": null
       },
       "year": "2023"
-    },
-    {
-      "title": "A Multi-Arm Robotic Platform for Scientific Exploration",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:LkGwnXOMwfcC",
-      "citation_id": "anH1p78AAAAJ:LkGwnXOMwfcC",
-      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
-      "publication": "arXiv preprint arXiv:2210.11877, 2022",
-      "cited_by": {
-        "value": null
-      },
-      "year": "2022"
     },
     {
       "title": "Dynamics of Mobile Manipulators using Dual Quaternion Algebra",
@@ -175,20 +178,20 @@
     "table": [
       {
         "citations": {
-          "all": 114,
-          "since_2020": 107
+          "all": 126,
+          "since_2021": 111
         }
       },
       {
         "h_index": {
           "all": 5,
-          "since_2020": 5
+          "since_2021": 5
         }
       },
       {
         "i10_index": {
           "all": 4,
-          "since_2020": 4
+          "since_2021": 4
         }
       }
     ],
@@ -223,11 +226,15 @@
       },
       {
         "year": 2024,
-        "citations": 25
+        "citations": 27
       },
       {
         "year": 2025,
-        "citations": 21
+        "citations": 29
+      },
+      {
+        "year": 2026,
+        "citations": 2
       }
     ]
   },
