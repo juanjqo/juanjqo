@@ -4,9 +4,9 @@
 ### Hello there 👋
 <img src="https://github.com/user-attachments/assets/724b0e81-eaaa-400d-97e5-c521e1ecf0aa" alt="drawing" width="100"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juanjqo)](https://github.com/juanjqo/github-profile-trophy)
+![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=juanjqo&theme=dracula)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=juanjqo)](https://github.com/juanjqo/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjqo&layout=compact)
+
 
 
 
