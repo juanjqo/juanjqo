@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "697cd77b03b1360f427ddbf4",
+    "id": "69fdfe8af3a0a767f4b734c1",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ea095e55ae88f43c/697cd77b03b1360f427ddbf4.json",
-    "created_at": "2026-01-30 16:08:27 UTC",
-    "processed_at": "2026-01-30 16:08:27 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Kcx_dG8NeIFRYA1GIEJJIw/69fdfe8af3a0a767f4b734c1.json",
+    "created_at": "2026-05-08 15:17:30 UTC",
+    "processed_at": "2026-05-08 15:17:30 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=anH1p78AAAAJ&hl&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ea095e55ae88f43c/697cd77b03b1360f427ddbf4.html",
-    "total_time_taken": 0.87
+    "raw_html_file": "https://serpapi.com/searches/Kcx_dG8NeIFRYA1GIEJJIw/69fdfe8af3a0a767f4b734c1.html",
+    "total_time_taken": 2.27
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -50,7 +50,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "https://ieeexplore.ieee.org/document/8763977, 2019",
       "cited_by": {
-        "value": 53,
+        "value": 55,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099481028616720948",
         "serpapi_link": "https://serpapi.com/search.json?cites=7099481028616720948&engine=google_scholar&hl=en",
         "cites_id": "7099481028616720948"
@@ -64,7 +64,7 @@
       "authors": "JJ Quiroz-Omaña, BV Adorno",
       "publication": "Journal of Intelligent & Robotic Systems 91 (2), 263-278, 2018",
       "cited_by": {
-        "value": 23,
+        "value": 24,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16207530139629504815",
         "serpapi_link": "https://serpapi.com/search.json?cites=16207530139629504815&engine=google_scholar&hl=en",
         "cites_id": "16207530139629504815"
@@ -78,7 +78,7 @@
       "authors": "FFA Silva, JJ Quiroz-Omaña, BV Adorno",
       "publication": "arXiv preprint arXiv:2007.08444, 2020",
       "cited_by": {
-        "value": 20,
+        "value": 23,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084949843608383675",
         "serpapi_link": "https://serpapi.com/search.json?cites=18084949843608383675&engine=google_scholar&hl=en",
         "cites_id": "18084949843608383675"
@@ -114,6 +114,20 @@
       "year": "2022"
     },
     {
+      "title": "A Multi-Arm Robotic Platform for Scientific Exploration",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:LkGwnXOMwfcC",
+      "citation_id": "anH1p78AAAAJ:LkGwnXOMwfcC",
+      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
+      "publication": "arXiv preprint arXiv:2210.11877, 2022",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16623675828630091963",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16623675828630091963&engine=google_scholar&hl=en",
+        "cites_id": "16623675828630091963"
+      },
+      "year": "2022"
+    },
+    {
       "title": "Parsimonious kinematic control of nonholonomic mobile manipulators",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:9yKSN-GCB0IC",
       "citation_id": "anH1p78AAAAJ:9yKSN-GCB0IC",
@@ -128,20 +142,6 @@
       "year": "2016"
     },
     {
-      "title": "A Multi-Arm Robotic Platform for Scientific Exploration",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:LkGwnXOMwfcC",
-      "citation_id": "anH1p78AAAAJ:LkGwnXOMwfcC",
-      "authors": "MM Marinho, JJ Quiroz-Omaña, K Harada",
-      "publication": "arXiv preprint arXiv:2210.11877, 2022",
-      "cited_by": {
-        "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16623675828630091963",
-        "serpapi_link": "https://serpapi.com/search.json?cites=16623675828630091963&engine=google_scholar&hl=en",
-        "cites_id": "16623675828630091963"
-      },
-      "year": "2022"
-    },
-    {
       "title": "Digital Twin of a Multi-Arm Robot Platform based on Isaac Sim for Synthetic Data Generation",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:roLk4NBRz8UC",
       "citation_id": "anH1p78AAAAJ:roLk4NBRz8UC",
@@ -151,16 +151,6 @@
         "value": null
       },
       "year": "2023"
-    },
-    {
-      "title": "Dynamics of Mobile Manipulators using Dual Quaternion Algebra",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=anH1p78AAAAJ&citation_for_view=anH1p78AAAAJ:Se3iqnhoufwC",
-      "citation_id": "anH1p78AAAAJ:Se3iqnhoufwC",
-      "authors": "F Fernandes Afonso Silva, JJ Quiroz-Omaña, B Adorno",
-      "cited_by": {
-        "value": null
-      },
-      "year": "2022"
     },
     {
       "title": "Whole-Body Control with (Self) Collision Avoidance using Vector Field Inequalities",
@@ -178,8 +168,8 @@
     "table": [
       {
         "citations": {
-          "all": 126,
-          "since_2021": 111
+          "all": 134,
+          "since_2021": 118
         }
       },
       {
@@ -218,7 +208,7 @@
       },
       {
         "year": 2022,
-        "citations": 13
+        "citations": 12
       },
       {
         "year": 2023,
@@ -226,15 +216,15 @@
       },
       {
         "year": 2024,
-        "citations": 27
+        "citations": 25
       },
       {
         "year": 2025,
-        "citations": 29
+        "citations": 30
       },
       {
         "year": 2026,
-        "citations": 2
+        "citations": 10
       }
     ]
   },
@@ -267,7 +257,7 @@
       "link": "https://scholar.google.com/citations?user=jZ56YrgAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=jZ56YrgAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "jZ56YrgAAAAJ",
-      "affiliations": "Marie Curie Fellow, The University of Manchester",
+      "affiliations": "Postdoctoral Research Associate, The University of Manchester",
       "email": "Verified email at manchester.ac.uk",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jZ56YrgAAAAJ&citpid=2"
     }
